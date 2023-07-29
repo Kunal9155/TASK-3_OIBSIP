@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "./style.css";
+import "./App.css";
 
 function App() {
   const [newItem, setNewItem] = useState("");
